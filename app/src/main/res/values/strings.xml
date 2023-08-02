@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="EventShop">EventShop</string>
+    <string name="EventApp">EventApp</string>
+    <string name="description">Search for any event you want to see</string>
+    <string name="sub_description">Events are waiting for you</string>
+    <string name="search_bar_hint">Search for an event...</string>
+    <string name="todo" />
+    <string name="hello" />
+    <string name="app_name"></string>
+    <string name="random_text">Salut asta este un text random inca nu stiu pt ce</string>
+
+    <string-array name="tipuri_bilet">
+        <item>Normal</item>
+        <item>VIP</item>
+    </string-array>
+</resources>
