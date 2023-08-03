@@ -288,7 +288,7 @@
                     <com.google.android.material.textview.MaterialTextView
                         android:layout_width="wrap_content"
                         android:layout_height="40dp"
-                        android:text="Untold"
+                        android:text="Wine Festival"
                         android:textColor="@color/black"
                         android:textSize="16dp"
                         android:textStyle="bold" />
@@ -394,7 +394,7 @@
                     <com.google.android.material.textview.MaterialTextView
                         android:layout_width="wrap_content"
                         android:layout_height="40dp"
-                        android:text="Untold"
+                        android:text="Meci Fotbal"
                         android:textColor="@color/black"
                         android:textSize="16dp"
                         android:textStyle="bold" />
@@ -434,6 +434,13 @@
                         android:textSize="10dp"
                         tools:ignore="TextSizeCheck" />
 
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/roundstyle">
+
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
 
                 </LinearLayout>
             </LinearLayout>
@@ -449,13 +456,6 @@
 
             </ImageView>
 
-
-        </androidx.constraintlayout.widget.ConstraintLayout>
-
-        <androidx.constraintlayout.widget.ConstraintLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:background="@drawable/roundstyle">
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
