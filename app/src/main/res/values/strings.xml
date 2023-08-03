@@ -9,6 +9,8 @@
     <string name="hello" />
     <string name="app_name"></string>
     <string name="random_text">Salut asta este un text random inca nu stiu pt ce</string>
+    <string name="UntoldDescription">Description:Festival de Muzica</string>
+    <string name="order_title">My Orders</string>
 
     <string-array name="tipuri_bilet">
         <item>Normal</item>
